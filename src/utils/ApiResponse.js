@@ -7,4 +7,4 @@ class ApiRespone {
   }
 }
  
-module.exports = { ApiRespone }
+export  { ApiRespone }
